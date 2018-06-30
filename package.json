@@ -1,0 +1,24 @@
+{
+  "name": "diyimg-vue",
+  "version": "0.1.0",
+  "description": "DIY image component for vue 2.x",
+  "main": "DiyImg.vue",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xinconan/diyimg-vue.git"
+  },
+  "keywords": [
+    "image",
+    "component",
+    "vue"
+  ],
+  "author": "xinconan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/xinconan/diyimg-vue/issues"
+  },
+  "homepage": "https://github.com/xinconan/diyimg-vue#readme"
+}
