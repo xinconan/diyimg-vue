@@ -22,5 +22,11 @@ new Vue({
 <diy-img src="img.png" errorSrc="err.png"/>
 ```
 
+### 结合 `mpvue` 开发小程序
+引入方法请改成如下形式：
+```javascript
+import DiyImg from 'diyimg-vue/wx'
+```
+
 ## 作用
 当`src`指定的图片不存在或者请求不了的情况，会使用指定的`errorSrc`来代替（errorSrc最好是能够一定被访问到的）。
